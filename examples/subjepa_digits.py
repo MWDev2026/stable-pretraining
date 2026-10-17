@@ -1,5 +1,8 @@
 """Train Sub-JEPA on action-controlled translations of sklearn's digits dataset.
 
+Sub-JEPA on translated handwritten digits
+========================================
+
 Run::
 
     python examples/subjepa_digits.py --epochs 20 --output /tmp/subjepa-digits
